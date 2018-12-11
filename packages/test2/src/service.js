@@ -1,7 +1,7 @@
 class Service {
 
     doIt(){
-        console.log("Business Logic is here!!")
+        console.log("Business Logic ris here!!")
     }
 }
 
